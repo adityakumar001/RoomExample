@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Example</string>
+    <string name="click_to_notify">Click To Notify!!</string>
+    <string name="custom_notify">Custom Notify</string>
+</resources>
